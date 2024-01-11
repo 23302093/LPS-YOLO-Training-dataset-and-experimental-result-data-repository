@@ -11,3 +11,6 @@ This library is used to store the training and validation dataset used in the SS
 
 
 It is worth noting that the result.png in each folder comes in two forms: black with white text and black with red text. This is because I used a computer and server for parallel testing to improve experimental efficiency. To ensure rigor, the basic hardware parameters of the two are consistent.
+
+## The overall structure of SSE-YOLO
+<img src="https://github.com/23302093/SSE-YOLO-Training-dataset-and-experimental-result-data-repository/blob/main/model.png" width="1000px">
